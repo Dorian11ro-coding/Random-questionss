@@ -67,6 +67,9 @@ int main(int argc, const char * argv[]) {
     else{
         cout << "That's not correct!        ";
     }
+    
+    // here starts' question 3/e
+    
     cout << "Question 3:When was C++ created?     ";
     
     cout << "Option 1: 1989     ";
@@ -75,9 +78,6 @@ int main(int argc, const char * argv[]) {
     
     cout << "Option 3: 1979     ";
     
-    // here ends question 2/w
-    
-    // here start's question 3/e
     
     cin >> e;
     
@@ -124,7 +124,7 @@ int main(int argc, const char * argv[]) {
     
     cout << "With what programming language was Minecraft made?    ";
     
-    cin >> r;
+    cin >> t;
     
     if(t=="Java"){
         cout << "That's correct";
