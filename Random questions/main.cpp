@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  Random questions
-//
-//  Created by Scarlat  Dorian Andrei on 21.01.2024.
-//
 
 #include <iostream>
 #include <string>
@@ -120,6 +114,11 @@ int main(int argc, const char * argv[]) {
         cout << "Invalid answer, please choose from 1, 2 or 3";
     }
     
+    // here ends question 4/r
+    
+    
+    // here start's question 5/t
+    
     cout << "Let's get to the next question.      ";
     
     cout << "With what programming language was Minecraft made?    ";
@@ -133,6 +132,10 @@ int main(int argc, const char * argv[]) {
         cout << "That's wrong!    ";
     }
     
+    // here ends question 5/r
+    
+    // here starts question 6/y
+    
     cout << "Let's get to the final question of this game.    ";
     
     cout << "What programming language did Apple made?    ";
@@ -144,6 +147,9 @@ int main(int argc, const char * argv[]) {
     }
     else{
         cout << "That's wrong";
+        
+        // here ends question 6/y
+        
     }
     
     return 0;
