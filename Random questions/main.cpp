@@ -1,5 +1,4 @@
-
-#include <iostream>
+  #include <iostream>
 #include <string>
 
 using namespace std;
@@ -35,7 +34,7 @@ int main(int argc, const char * argv[]) {
         cout << "That's wrong";
     }
     else if(q==2){
-        cout << "That's correct";
+        cout << "That's correct!  ";
     }
     else if(q==3){
         cout << "That's wrong";
@@ -126,7 +125,7 @@ int main(int argc, const char * argv[]) {
     cin >> t;
     
     if(t=="Java"){
-        cout << "That's correct";
+        cout << "That's correct!   ";
     }
     else{
         cout << "That's wrong!    ";
@@ -143,10 +142,10 @@ int main(int argc, const char * argv[]) {
     cin >> y;
     
     if(y=="Swift"){
-        cout << "That's correct";
+        cout << "That's correct!  ";
     }
     else{
-        cout << "That's wrong";
+        cout << "That's wrong!  ";
         
         // here ends question 6/y
         
